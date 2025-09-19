@@ -1,0 +1,41 @@
+[
+  {
+    "track": "Frontend Developer",
+    "openings": [
+      {
+        "title": "Vue.js Developer",
+        "company": "TechCorp",
+        "location": "Remote",
+        "link": "https://joblink1"
+      },
+      {
+        "title": "React Developer",
+        "company": "Webify",
+        "location": "NYC",
+        "link": "https://joblink2"
+      }
+    ]
+  },
+  {
+    "track": "Data Scientist",
+    "openings": [
+      {
+        "title": "Junior Data Scientist",
+        "company": "DataLab",
+        "location": "SF",
+        "link": "https://joblink3"
+      }
+    ]
+  },
+  {
+    "track": "DevOps Engineer",
+    "openings": [
+      {
+        "title": "Cloud Engineer",
+        "company": "CloudX",
+        "location": "Remote",
+        "link": "https://joblink4"
+      }
+    ]
+  }
+]
